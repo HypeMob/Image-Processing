@@ -81,7 +81,7 @@
    <li>Accuracy: 0.8234</li>
    <li>Precision: 0.7798</li>
    <li>Recall: 0.7818</li>
-   <li>F1-Score: 0.7805</h3li
+   <li>F1-Score: 0.7805</li>
 </ul>
 
 <h1>Contributors</h1>
