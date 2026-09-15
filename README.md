@@ -90,7 +90,7 @@
 
 <ul>
     <li><a href="https://github.com/HypeMob"><strong>Johanes Lie</strong></a></li>
-    <li><a href="https://github.com/HypeMob"><strong>Devin Jonathan</strong></a></li>
+    <li><a href="https://github.com/nekoromancer13"><strong>Devin Jonathan</strong></a></li>
     <li><a href="https://github.com/Hood8833"><strong>Collin Kliveson</strong></a></li>
 </ul>
 
